@@ -1,0 +1,8 @@
+{
+  "name": "raspberrypi-client",
+  "version": "0.0.1",
+  "author": "IAFoosball",
+  "dependencies": {
+    "rpi-ws281x-native": "0.8.2"
+  }
+}
